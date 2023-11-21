@@ -15,7 +15,7 @@ class USER:
     connSock = ""
 
     def __init__(self, nom, ip, socket, canalActual, connSock):
-        self.nom = nom
+        self.nom = nom 
         self.ip = ip
         self.socket = socket
         # El canal al que un usuari s'uniex per defecte es el canal Main.
