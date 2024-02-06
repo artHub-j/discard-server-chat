@@ -2,7 +2,7 @@
 A terminal-based server chat with the ability to create channels and manage its users. Mark: 10
 
 ## Program preview
-![Captura desde 2024-02-06 16-49-19(1)](https://github.com/artHub-j/discard-server-chat/assets/92806890/df340af7-c10f-4440-9736-ee14a5db8bab)
+![DiscardExampleChat](https://github.com/artHub-j/discard-server-chat/assets/92806890/450822a6-d4d3-4ddc-a491-bbf2d125ef66)
 
 ## All possible commands
 <p align="center">
